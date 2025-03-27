@@ -1,21 +1,4 @@
 {
-  "name": "shadyalzayat.github.io",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShadyAlzayat/shadyalzayat.github.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ShadyAlzayat/shadyalzayat.github.io/issues"
-  },
-  "homepage": "https://github.com/ShadyAlzayat/shadyalzayat.github.io#readme",
-  "description": "",
   "dependencies": {
     "gh-pages": "^6.3.0"
   }
