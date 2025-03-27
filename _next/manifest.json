@@ -1,0 +1,32 @@
+{
+  "name": "Shady Alzayat",
+  "short_name": "Shady Alzayat",
+  "icons": [
+    {
+      "src": "/pwa/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "background_color": "#ffffff",
+  "description": "Shady Alzayat - Portfolio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "https://shadyalzayat.github.io/",
+  "theme_color": "#ffffff",
+  "prefer_related_applications": true
+}
