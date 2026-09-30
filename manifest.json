@@ -1,0 +1,25 @@
+{
+  "name": "Shady Alzayat",
+  "short_name": "Shady Alzayat",
+  "background_color": "#ffffff",
+  "description": "Shady Alzayat, founder of Appetier",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
